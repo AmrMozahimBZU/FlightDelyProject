@@ -14,3 +14,8 @@ in this project we built a data science pipeline analyze that predict the flight
 
 ## Phase 1
 Repository setup and environment initialization.
+
+
+## Phase 2
+
+Initial Report
